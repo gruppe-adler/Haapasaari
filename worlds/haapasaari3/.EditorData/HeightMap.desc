@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "C:/QGIS/ArmaTerrainExport/heightmap_20260905_103329.png"
+ Flags 5
+ MinHeight -1000000
+ ResampleMinHeight -1
+ ResampleMaxHeight 17
+}
