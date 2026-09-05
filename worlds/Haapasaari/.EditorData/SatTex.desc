@@ -1,7 +1,0 @@
-SatGenDescClass {
- FileName "C:/QGIS/ArmaTerrainExport/satmap_20260905_102454.png"
- sRGBOutput 1
- Interpolation bilinear
- RenderRoads 1
- RoadsAA "8x"
-}
