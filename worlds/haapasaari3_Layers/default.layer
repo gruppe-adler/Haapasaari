@@ -22,7 +22,7 @@ GenericTerrainEntity haapasaari3 {
 }
 TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
  coords 1024 0 1024
- "Initial Day Time" 7.28
+ "Initial Day Time" 17.917
  "Internal variant transition" 0
  "Internal subvariant 0" 0
  "Internal subvariant 1" 0
@@ -444,7 +444,7 @@ $grp Tree : "{3146C9F63A4FB19A}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
   coords 607.641 -0.086 229.402
  }
  {
-  coords 636.622 -0 238.006
+  coords 636.622 0 238.006
  }
  {
   coords 579.391 0 233.783
@@ -461,14 +461,14 @@ $grp Tree : "{3146C9F63A4FB19A}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
   angles 0 148.999 0
  }
  {
-  coords 712.785 -0 216.332
+  coords 712.785 0 216.332
  }
  {
   coords 716.174 0 216.148
   angles 0 85.516 0
  }
  {
-  coords 711.128 -0 216.985
+  coords 711.128 0 216.985
  }
  {
   coords 718.583 0 216.659
@@ -560,7 +560,7 @@ SCR_IndestructibleEnvironmentalEntity : "{50E63E69B37539DB}Prefabs/Rocks/Granite
  coords 717.649 -1.784 175.04
 }
 Tree : "{510EA49BF4860B05}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1_aut.et" {
- coords 652.915 -0 185.962
+ coords 652.915 0 185.962
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{533CDABD77C4C43E}Prefabs/Rocks/Granite/GraniteCliff_02.et" {
  {
@@ -621,7 +621,7 @@ $grp GenericEntity : "{6A0F8B05C98BC76D}Prefabs/Vegetation/Plant/c_coppice_grass
 }
 $grp Tree : "{75CEDC0C3B9CCE14}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_0.et" {
  {
-  coords 692.817 -0 219.382
+  coords 692.817 0 219.382
  }
  {
   coords 656.047 0 216.017
@@ -636,7 +636,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{7813FBBE77324674}Prefabs/Rocks/Gr
  }
 }
 Tree : "{822382583FCFFCB3}Prefabs/Vegetation/Plant/Chamerion_angustifolium/p_chamerion_angustifolium_1.et" {
- coords 704.592 -0 183.679
+ coords 704.592 0 183.679
 }
 $grp Tree : "{83918B1D65ED8202}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_Calamagrostis_epigejos_2_aut.et" {
  {
@@ -652,13 +652,13 @@ Tree : "{865A1A42EE051619}Prefabs/Vegetation/Plant/Artemisia_Vulgaris/p_artemisi
 }
 $grp Tree : "{905290F53779597F}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1.et" {
  {
-  coords 713.522 -0 187.749
+  coords 713.522 0 187.749
  }
  {
-  coords 683.162 -0 220.825
+  coords 683.162 0 220.825
  }
  {
-  coords 696.402 -0 215.907
+  coords 696.402 0 215.907
  }
  {
   coords 658.478 0 215.859
@@ -681,7 +681,7 @@ $grp Tree : "{9D5A19E49F68D237}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
   coords 716.941 -0.146 195.067
  }
  {
-  coords 715.687 -0 205.338
+  coords 715.687 0 205.338
  }
  {
   coords 717.113 0 203.601
@@ -726,7 +726,7 @@ $grp Tree : "{A8188E486B3DACC6}Prefabs/Vegetation/Plant/Chamerion_angustifolium/
  }
 }
 Tree : "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et" {
- coords 663.385 -0 208.825
+ coords 663.385 0 208.825
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{B6A096447B215355}Prefabs/Rocks/Granite/GraniteCliff_03.et" {
  {
@@ -783,7 +783,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B6A096447B215355}Prefabs/Rocks/Gr
 }
 $grp Tree : "{B9D966CCC7F6DF22}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1d.et" {
  {
-  coords 655.673 -0 218.351
+  coords 655.673 0 218.351
  }
  {
   coords 659.971 0 222.192
@@ -795,7 +795,7 @@ $grp Tree : "{B9D966CCC7F6DF22}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana
  }
 }
 Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1.et" {
- coords 676.078 -0 193.3
+ coords 676.078 0 193.3
 }
 Tree : "{BAB8054438C72A04}Prefabs/Vegetation/Bush/b_sambucus_nigra_2.et" {
  coords 694.442 -0.099 185.334
@@ -830,10 +830,10 @@ $grp GenericEntity : "{D68730CF165DA497}Prefabs/Vegetation/Plant/Chamerion_angus
  }
 }
 Tree : "{D9DF1D13919F19A0}Prefabs/Vegetation/Bush/b_rosa_canina_0s.et" {
- coords 665.887 -0 201.44
+ coords 665.887 0 201.44
 }
 Tree : "{DDFB456F6ACD83EB}Prefabs/Vegetation/Plant/Rubus_Gracilis/p_rubus_gracilis_1.et" {
- coords 709.594 -0 183.111
+ coords 709.594 0 183.111
 }
 $grp Tree : "{DFA6FDF75C211A07}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1d_aut.et" {
  {
@@ -860,13 +860,13 @@ $grp Tree : "{F10E2D0423AC5D19}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
   angles 0 51.352 0
  }
  {
-  coords 714.514 -0 208.296
+  coords 714.514 0 208.296
  }
  {
   coords 722.118 0 214.709
  }
  {
-  coords 578.645 -0 232.908
+  coords 578.645 0 232.908
  }
 }
 Tree : "{F4558B5B50D63585}Prefabs/Vegetation/Plant/Arctium_Lappa/p_arctium_lappa_1s.et" {
