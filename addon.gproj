@@ -1,0 +1,8 @@
+GameProject {
+ ID "Haapasaari"
+ GUID "6A4A82B012318E65"
+ TITLE "Haapasaari"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
