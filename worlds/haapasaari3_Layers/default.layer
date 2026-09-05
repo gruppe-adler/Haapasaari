@@ -1,7 +1,7 @@
 GenericWorldEntity world {
- BSP 526 1 38 1 256 0 0 2 129 2 0 3 66 0 17000 4 35 2 17000 5 20 0 25500 6 13 2 25500 7 10 0 29750 8 9 2 29750 -1 -1 2 29750 -1 -1 0 29750 11 12 2 21250 -1 -1 2 21250 -1 -1 2 25500 14 17 0 21250 15 16 2 29750 -1 -1 2 29750 -1 -1 0 21250 18 19 2 21250 -1 -1 2 21250 -1 -1 0 25500 21 28 2 8500 22 25 0 29750 23 24 2 12750 -1 -1 2 12750 -1 -1 0 29750 26 27 2 4250 -1 -1 2 4250 -1 -1 2 8500 29 32 0 21250 30 31 2 12750 -1 -1 2 12750 -1 -1 0 21250 33 34 2 4250 -1 -1 2 4250 -1 -1 2 17000 36 51 0 8500 37 44 2 25500 38 41 0 12750 39 40 2 29750 -1 -1 2 29750 -1 -1 0 12750 42 43 2 21250 -1 -1 2 21250 -1 -1 2 25500 45 48 0 4250 46 47 2 29750 -1 -1 2 29750 -1 -1 0 4250 49 50 2 21250 -1 -1 2 21250 -1 -1 0 8500 52 59 2 8500 53 56 0 12750 54 55 2 12750 -1 -1 2 12750 -1 -1 0 12750 57 58 2 4250 -1 -1 2 4250 -1 -1 2 8500 60 63 0 4250 61 62 2 12750 -1 -1 2 12750 -1 -1 0 4250 64 65 2 4250 -1 -1 2 4250 -1 -1 0 17000 67 98 2 -17000 68 83 0 25500 69 76 2 -8500 70 73 0 29750 71 72 2 -4250 -1 -1 2 -4250 -1 -1 0 29750 74 75 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 77 80 0 21250 78 79 2 -4250 -1 -1 2 -4250 -1 -1 0 21250 81 82 2 -12750 -1 -1 2 -12750 -1 -1 0 25500 84 91 2 -25500 85 88 0 29750 86 87 2 -21250 -1 -1 2 -21250 -1 -1 0 29750 89 90 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 92 95 0 21250 93 94 2 -21250 -1 -1 2 -21250 -1 -1 0 21250 96 97 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 99 114 0 8500 100 107 2 -8500 101 104 0 12750 102 103 2 -4250 -1 -1 2 -4250 -1 -1 0 12750 105 106 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 108 111 0 4250 109 110 2 -4250 -1 -1 2 -4250 -1 -1 0 4250 112 113 2 -12750 -1 -1 2 -12750 -1 -1 0 8500 115 122 2 -25500 116 119 0 12750 117 118 2 -21250 -1 -1 2 -21250 -1 -1 0 12750 120 121 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 123 126 0 4250 124 125 2 -21250 -1 -1 2 -21250 -1 -1 0 4250 127 128 2 -29750 -1 -1 2 -29750 -1 -1 2 0 130 193 0 -17000 131 162 2 17000 132 147 0 -8500 133 140 2 25500 134 137 0 -4250 135 136 2 29750 -1 -1 2 29750 -1 -1 0 -4250 138 139 2 21250 -1 -1 2 21250 -1 -1 2 25500 141 144 0 -12750 142 143 2 29750 -1 -1 2 29750 -1 -1 0 -12750 145 146 2 21250 -1 -1 2 21250 -1 -1 0 -8500 148 155 2 8500 149 152 0 -4250 150 151 2 12750 -1 -1 2 12750 -1 -1 0 -4250 153 154 2 4250 -1 -1 2 4250 -1 -1 2 8500 156 159 0 -12750 157 158 2 12750 -1 -1 2 12750 -1 -1 0 -12750 160 161 2 4250 -1 -1 2 4250 -1 -1 2 17000 163 178 0 -25500 164 171 2 25500 165 168 0 -21250 166 167 2 29750 -1 -1 2 29750 -1 -1 0 -21250 169 170 2 21250 -1 -1 2 21250 -1 -1 2 25500 172 175 0 -29750 173 174 2 29750 -1 -1 2 29750 -1 -1 0 -29750 176 177 2 21250 -1 -1 2 21250 -1 -1 0 -25500 179 186 2 8500 180 183 0 -21250 181 182 2 12750 -1 -1 2 12750 -1 -1 0 -21250 184 185 2 4250 -1 -1 2 4250 -1 -1 2 8500 187 190 0 -29750 188 189 2 12750 -1 -1 2 12750 -1 -1 0 -29750 191 192 2 4250 -1 -1 2 4250 -1 -1 0 -17000 194 225 2 -17000 195 210 0 -8500 196 203 2 -8500 197 200 0 -4250 198 199 2 -4250 -1 -1 2 -4250 -1 -1 0 -4250 201 202 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 204 207 0 -12750 205 206 2 -4250 -1 -1 2 -4250 -1 -1 0 -12750 208 209 2 -12750 -1 -1 2 -12750 -1 -1 0 -8500 211 218 2 -25500 212 215 0 -4250 213 214 2 -21250 -1 -1 2 -21250 -1 -1 0 -4250 216 217 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 219 222 0 -12750 220 221 2 -21250 -1 -1 2 -21250 -1 -1 0 -12750 223 224 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 226 241 0 -25500 227 234 2 -8500 228 231 0 -21250 229 230 2 -4250 -1 -1 2 -4250 -1 -1 0 -21250 232 233 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 235 238 0 -29750 236 237 2 -4250 -1 -1 2 -4250 -1 -1 0 -29750 239 240 2 -12750 -1 -1 2 -12750 -1 -1 0 -25500 242 249 2 -25500 243 246 0 -21250 244 245 2 -21250 -1 -1 2 -21250 -1 -1 0 -21250 247 248 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 250 253 0 -29750 251 252 2 -21250 -1 -1 2 -21250 -1 -1 0 -29750 254 255 2 -29750 -1 -1 2 -29750 -1 -1 2 365 257 384 0 0 258 321 0 17000 259 290 2 17182 260 275 0 25500 261 268 2 25591 262 265 0 29750 263 264 2 29795 -1 -1 2 29795 -1 -1 0 29750 266 267 2 21387 -1 -1 2 21387 -1 -1 2 25591 269 272 0 21250 270 271 2 29795 -1 -1 2 29795 -1 -1 0 21250 273 274 2 21387 -1 -1 2 21387 -1 -1 0 25500 276 283 2 8774 277 280 0 29750 278 279 2 12978 -1 -1 2 12978 -1 -1 0 29750 281 282 2 4570 -1 -1 2 4570 -1 -1 2 8774 284 287 0 21250 285 286 2 12978 -1 -1 2 12978 -1 -1 0 21250 288 289 2 4570 -1 -1 2 4570 -1 -1 2 17182 291 306 0 8500 292 299 2 25591 293 296 0 12750 294 295 2 29795 -1 -1 2 29795 -1 -1 0 12750 297 298 2 21387 -1 -1 2 21387 -1 -1 2 25591 300 303 0 4250 301 302 2 29795 -1 -1 2 29795 -1 -1 0 4250 304 305 2 21387 -1 -1 2 21387 -1 -1 0 8500 307 314 2 8774 308 311 0 12750 309 310 2 12978 -1 -1 2 12978 -1 -1 0 12750 312 313 2 4570 -1 -1 2 4570 -1 -1 2 8774 315 318 0 4250 316 317 2 12978 -1 -1 2 12978 -1 -1 0 4250 319 320 2 4570 -1 -1 2 4570 -1 -1 0 -17000 322 353 2 17182 323 338 0 -8500 324 331 2 25591 325 328 0 -4250 326 327 2 29795 -1 -1 2 29795 -1 -1 0 -4250 329 330 2 21387 -1 -1 2 21387 -1 -1 2 25591 332 335 0 -12750 333 334 2 29795 -1 -1 2 29795 -1 -1 0 -12750 336 337 2 21387 -1 -1 2 21387 -1 -1 0 -8500 339 346 2 8774 340 343 0 -4250 341 342 2 12978 -1 -1 2 12978 -1 -1 0 -4250 344 345 2 4570 -1 -1 2 4570 -1 -1 2 8774 347 350 0 -12750 348 349 2 12978 -1 -1 2 12978 -1 -1 0 -12750 351 352 2 4570 -1 -1 2 4570 -1 -1 2 17182 354 369 0 -25500 355 362 2 25591 356 359 0 -21250 357 358 2 29795 -1 -1 2 29795 -1 -1 0 -21250 360 361 2 21387 -1 -1 2 21387 -1 -1 2 25591 363 366 0 -29750 364 365 2 29795 -1 -1 2 29795 -1 -1 0 -29750 367 368 2 21387 -1 -1 2 21387 -1 -1 0 -25500 370 377 2 8774 371 374 0 -21250 372 373 2 12978 -1 -1 2 12978 -1 -1 0 -21250 375 376 2 4570 -1 -1 2 4570 -1 -1 2 8774 378 381 0 -29750 379 380 2 12978 -1 -1 2 12978 -1 -1 0 -29750 382 383 2 4570 -1 -1 2 4570 -1 -1 0 850 385 448 2 -16817 386 417 0 17425 387 402 2 -8225 388 395 0 25712 389 392 2 -3929 390 391 0 29856 -1 -1 0 29856 -1 -1 2 -3929 393 394 0 21569 -1 -1 0 21569 -1 -1 0 25712 396 399 2 -12521 397 398 0 29856 -1 -1 0 29856 -1 -1 2 -12521 400 401 0 21569 -1 -1 0 21569 -1 -1 2 -8225 403 410 0 9138 404 407 2 -3929 405 406 0 13281 -1 -1 0 13281 -1 -1 2 -3929 408 409 0 4994 -1 -1 0 4994 -1 -1 0 9138 411 414 2 -12521 412 413 0 13281 -1 -1 0 13281 -1 -1 2 -12521 415 416 0 4994 -1 -1 0 4994 -1 -1 0 17425 418 433 2 -25408 419 426 0 25712 420 423 2 -21112 421 422 0 29856 -1 -1 0 29856 -1 -1 2 -21112 424 425 0 21569 -1 -1 0 21569 -1 -1 0 25712 427 430 2 -29704 428 429 0 29856 -1 -1 0 29856 -1 -1 2 -29704 431 432 0 21569 -1 -1 0 21569 -1 -1 2 -25408 434 441 0 9138 435 438 2 -21112 436 437 0 13281 -1 -1 0 13281 -1 -1 2 -21112 439 440 0 4994 -1 -1 0 4994 -1 -1 0 9138 442 445 2 -29704 443 444 0 13281 -1 -1 0 13281 -1 -1 2 -29704 446 447 0 4994 -1 -1 0 4994 -1 -1 2 -61 449 463 0 -440 450 456 0 663 451 452 2 196 -1 -1 0 611 453 455 2 231 -1 454 2 214 -1 -1 0 85 -1 -1 0 -17220 457 460 0 -8830 458 459 0 -4635 -1 -1 0 -13025 -1 -1 0 -25610 461 462 0 -21415 -1 -1 0 -29805 -1 -1 0 -16574 464 495 2 -17030 465 480 0 -7861 466 473 2 -8546 467 470 0 -3505 468 469 2 -4303 -1 -1 2 -4303 -1 -1 0 -3505 471 472 2 -12788 -1 -1 2 -12788 -1 -1 2 -8546 474 477 0 -12218 475 476 2 -4303 -1 -1 2 -4303 -1 -1 0 -12218 478 479 2 -12788 -1 -1 2 -12788 -1 -1 0 -7861 481 488 2 -25515 482 485 0 -3505 483 484 2 -21273 -1 -1 2 -21273 -1 -1 0 -3505 486 487 2 -29757 -1 -1 2 -29757 -1 -1 2 -25515 489 492 0 -12218 490 491 2 -21273 -1 -1 2 -21273 -1 -1 0 -12218 493 494 2 -29757 -1 -1 2 -29757 -1 -1 2 -17030 496 511 0 -25287 497 504 2 -8546 498 501 0 -20930 499 500 2 -4303 -1 -1 2 -4303 -1 -1 0 -20930 502 503 2 -12788 -1 -1 2 -12788 -1 -1 2 -8546 505 508 0 -29643 506 507 2 -4303 -1 -1 2 -4303 -1 -1 0 -29643 509 510 2 -12788 -1 -1 2 -12788 -1 -1 0 -25287 512 519 2 -25515 513 516 0 -20930 514 515 2 -21273 -1 -1 2 -21273 -1 -1 0 -20930 517 518 2 -29757 -1 -1 2 -29757 -1 -1 2 -25515 520 523 0 -29643 521 522 2 -21273 -1 -1 2 -21273 -1 -1 0 -29643 524 525 2 -29757 -1 -1 2 -29757 -1 -1
+ BSP 536 1 39 1 256 0 0 2 129 2 0 3 66 0 17000 4 35 2 17000 5 20 0 25500 6 13 2 25500 7 10 0 29750 8 9 2 29750 -1 -1 2 29750 -1 -1 0 29750 11 12 2 21250 -1 -1 2 21250 -1 -1 2 25500 14 17 0 21250 15 16 2 29750 -1 -1 2 29750 -1 -1 0 21250 18 19 2 21250 -1 -1 2 21250 -1 -1 0 25500 21 28 2 8500 22 25 0 29750 23 24 2 12750 -1 -1 2 12750 -1 -1 0 29750 26 27 2 4250 -1 -1 2 4250 -1 -1 2 8500 29 32 0 21250 30 31 2 12750 -1 -1 2 12750 -1 -1 0 21250 33 34 2 4250 -1 -1 2 4250 -1 -1 2 17000 36 51 0 8500 37 44 2 25500 38 41 0 12750 39 40 2 29750 -1 -1 2 29750 -1 -1 0 12750 42 43 2 21250 -1 -1 2 21250 -1 -1 2 25500 45 48 0 4250 46 47 2 29750 -1 -1 2 29750 -1 -1 0 4250 49 50 2 21250 -1 -1 2 21250 -1 -1 0 8500 52 59 2 8500 53 56 0 12750 54 55 2 12750 -1 -1 2 12750 -1 -1 0 12750 57 58 2 4250 -1 -1 2 4250 -1 -1 2 8500 60 63 0 4250 61 62 2 12750 -1 -1 2 12750 -1 -1 0 4250 64 65 2 4250 -1 -1 2 4250 -1 -1 0 17000 67 98 2 -17000 68 83 0 25500 69 76 2 -8500 70 73 0 29750 71 72 2 -4250 -1 -1 2 -4250 -1 -1 0 29750 74 75 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 77 80 0 21250 78 79 2 -4250 -1 -1 2 -4250 -1 -1 0 21250 81 82 2 -12750 -1 -1 2 -12750 -1 -1 0 25500 84 91 2 -25500 85 88 0 29750 86 87 2 -21250 -1 -1 2 -21250 -1 -1 0 29750 89 90 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 92 95 0 21250 93 94 2 -21250 -1 -1 2 -21250 -1 -1 0 21250 96 97 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 99 114 0 8500 100 107 2 -8500 101 104 0 12750 102 103 2 -4250 -1 -1 2 -4250 -1 -1 0 12750 105 106 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 108 111 0 4250 109 110 2 -4250 -1 -1 2 -4250 -1 -1 0 4250 112 113 2 -12750 -1 -1 2 -12750 -1 -1 0 8500 115 122 2 -25500 116 119 0 12750 117 118 2 -21250 -1 -1 2 -21250 -1 -1 0 12750 120 121 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 123 126 0 4250 124 125 2 -21250 -1 -1 2 -21250 -1 -1 0 4250 127 128 2 -29750 -1 -1 2 -29750 -1 -1 2 0 130 193 0 -17000 131 162 2 17000 132 147 0 -8500 133 140 2 25500 134 137 0 -4250 135 136 2 29750 -1 -1 2 29750 -1 -1 0 -4250 138 139 2 21250 -1 -1 2 21250 -1 -1 2 25500 141 144 0 -12750 142 143 2 29750 -1 -1 2 29750 -1 -1 0 -12750 145 146 2 21250 -1 -1 2 21250 -1 -1 0 -8500 148 155 2 8500 149 152 0 -4250 150 151 2 12750 -1 -1 2 12750 -1 -1 0 -4250 153 154 2 4250 -1 -1 2 4250 -1 -1 2 8500 156 159 0 -12750 157 158 2 12750 -1 -1 2 12750 -1 -1 0 -12750 160 161 2 4250 -1 -1 2 4250 -1 -1 2 17000 163 178 0 -25500 164 171 2 25500 165 168 0 -21250 166 167 2 29750 -1 -1 2 29750 -1 -1 0 -21250 169 170 2 21250 -1 -1 2 21250 -1 -1 2 25500 172 175 0 -29750 173 174 2 29750 -1 -1 2 29750 -1 -1 0 -29750 176 177 2 21250 -1 -1 2 21250 -1 -1 0 -25500 179 186 2 8500 180 183 0 -21250 181 182 2 12750 -1 -1 2 12750 -1 -1 0 -21250 184 185 2 4250 -1 -1 2 4250 -1 -1 2 8500 187 190 0 -29750 188 189 2 12750 -1 -1 2 12750 -1 -1 0 -29750 191 192 2 4250 -1 -1 2 4250 -1 -1 0 -17000 194 225 2 -17000 195 210 0 -8500 196 203 2 -8500 197 200 0 -4250 198 199 2 -4250 -1 -1 2 -4250 -1 -1 0 -4250 201 202 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 204 207 0 -12750 205 206 2 -4250 -1 -1 2 -4250 -1 -1 0 -12750 208 209 2 -12750 -1 -1 2 -12750 -1 -1 0 -8500 211 218 2 -25500 212 215 0 -4250 213 214 2 -21250 -1 -1 2 -21250 -1 -1 0 -4250 216 217 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 219 222 0 -12750 220 221 2 -21250 -1 -1 2 -21250 -1 -1 0 -12750 223 224 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 226 241 0 -25500 227 234 2 -8500 228 231 0 -21250 229 230 2 -4250 -1 -1 2 -4250 -1 -1 0 -21250 232 233 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 235 238 0 -29750 236 237 2 -4250 -1 -1 2 -4250 -1 -1 0 -29750 239 240 2 -12750 -1 -1 2 -12750 -1 -1 0 -25500 242 249 2 -25500 243 246 0 -21250 244 245 2 -21250 -1 -1 2 -21250 -1 -1 0 -21250 247 248 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 250 253 0 -29750 251 252 2 -21250 -1 -1 2 -21250 -1 -1 0 -29750 254 255 2 -29750 -1 -1 2 -29750 -1 -1 2 610 257 384 0 0 258 321 0 17000 259 290 2 17305 260 275 0 25500 261 268 2 25652 262 265 0 29750 263 264 2 29826 -1 -1 2 29826 -1 -1 0 29750 266 267 2 21478 -1 -1 2 21478 -1 -1 2 25652 269 272 0 21250 270 271 2 29826 -1 -1 2 29826 -1 -1 0 21250 273 274 2 21478 -1 -1 2 21478 -1 -1 0 25500 276 283 2 8957 277 280 0 29750 278 279 2 13131 -1 -1 2 13131 -1 -1 0 29750 281 282 2 4784 -1 -1 2 4784 -1 -1 2 8957 284 287 0 21250 285 286 2 13131 -1 -1 2 13131 -1 -1 0 21250 288 289 2 4784 -1 -1 2 4784 -1 -1 2 17305 291 306 0 8500 292 299 2 25652 293 296 0 12750 294 295 2 29826 -1 -1 2 29826 -1 -1 0 12750 297 298 2 21478 -1 -1 2 21478 -1 -1 2 25652 300 303 0 4250 301 302 2 29826 -1 -1 2 29826 -1 -1 0 4250 304 305 2 21478 -1 -1 2 21478 -1 -1 0 8500 307 314 2 8957 308 311 0 12750 309 310 2 13131 -1 -1 2 13131 -1 -1 0 12750 312 313 2 4784 -1 -1 2 4784 -1 -1 2 8957 315 318 0 4250 316 317 2 13131 -1 -1 2 13131 -1 -1 0 4250 319 320 2 4784 -1 -1 2 4784 -1 -1 0 -17000 322 353 2 17305 323 338 0 -8500 324 331 2 25652 325 328 0 -4250 326 327 2 29826 -1 -1 2 29826 -1 -1 0 -4250 329 330 2 21478 -1 -1 2 21478 -1 -1 2 25652 332 335 0 -12750 333 334 2 29826 -1 -1 2 29826 -1 -1 0 -12750 336 337 2 21478 -1 -1 2 21478 -1 -1 0 -8500 339 346 2 8957 340 343 0 -4250 341 342 2 13131 -1 -1 2 13131 -1 -1 0 -4250 344 345 2 4784 -1 -1 2 4784 -1 -1 2 8957 347 350 0 -12750 348 349 2 13131 -1 -1 2 13131 -1 -1 0 -12750 351 352 2 4784 -1 -1 2 4784 -1 -1 2 17305 354 369 0 -25500 355 362 2 25652 356 359 0 -21250 357 358 2 29826 -1 -1 2 29826 -1 -1 0 -21250 360 361 2 21478 -1 -1 2 21478 -1 -1 2 25652 363 366 0 -29750 364 365 2 29826 -1 -1 2 29826 -1 -1 0 -29750 367 368 2 21478 -1 -1 2 21478 -1 -1 0 -25500 370 377 2 8957 371 374 0 -21250 372 373 2 13131 -1 -1 2 13131 -1 -1 0 -21250 375 376 2 4784 -1 -1 2 4784 -1 -1 2 8957 378 381 0 -29750 379 380 2 13131 -1 -1 2 13131 -1 -1 0 -29750 382 383 2 4784 -1 -1 2 4784 -1 -1 0 850 385 448 2 -16694 386 417 0 17425 387 402 2 -8042 388 395 0 25712 389 392 2 -3715 390 391 0 29856 -1 -1 0 29856 -1 -1 2 -3715 393 394 0 21569 -1 -1 0 21569 -1 -1 0 25712 396 399 2 -12368 397 398 0 29856 -1 -1 0 29856 -1 -1 2 -12368 400 401 0 21569 -1 -1 0 21569 -1 -1 2 -8042 403 410 0 9138 404 407 2 -3715 405 406 0 13281 -1 -1 0 13281 -1 -1 2 -3715 408 409 0 4994 -1 -1 0 4994 -1 -1 0 9138 411 414 2 -12368 412 413 0 13281 -1 -1 0 13281 -1 -1 2 -12368 415 416 0 4994 -1 -1 0 4994 -1 -1 0 17425 418 433 2 -25347 419 426 0 25712 420 423 2 -21021 421 422 0 29856 -1 -1 0 29856 -1 -1 2 -21021 424 425 0 21569 -1 -1 0 21569 -1 -1 0 25712 427 430 2 -29673 428 429 0 29856 -1 -1 0 29856 -1 -1 2 -29673 431 432 0 21569 -1 -1 0 21569 -1 -1 2 -25347 434 441 0 9138 435 438 2 -21021 436 437 0 13281 -1 -1 0 13281 -1 -1 2 -21021 439 440 0 4994 -1 -1 0 4994 -1 -1 0 9138 442 445 2 -29673 443 444 0 13281 -1 -1 0 13281 -1 -1 2 -29673 446 447 0 4994 -1 -1 0 4994 -1 -1 2 -61 449 473 0 -440 450 466 0 667 451 455 2 385 452 453 2 481 -1 -1 2 263 -1 454 2 196 -1 -1 2 415 456 459 0 638 457 458 2 466 -1 -1 0 99 -1 -1 0 620 460 461 2 367 -1 -1 2 214 462 465 2 239 463 464 0 90 -1 -1 0 90 -1 -1 0 90 -1 -1 0 -17220 467 470 0 -8830 468 469 0 -4635 -1 -1 0 -13025 -1 -1 0 -25610 471 472 0 -21415 -1 -1 0 -29805 -1 -1 0 -16574 474 505 2 -17030 475 490 0 -7861 476 483 2 -8546 477 480 0 -3505 478 479 2 -4303 -1 -1 2 -4303 -1 -1 0 -3505 481 482 2 -12788 -1 -1 2 -12788 -1 -1 2 -8546 484 487 0 -12218 485 486 2 -4303 -1 -1 2 -4303 -1 -1 0 -12218 488 489 2 -12788 -1 -1 2 -12788 -1 -1 0 -7861 491 498 2 -25515 492 495 0 -3505 493 494 2 -21273 -1 -1 2 -21273 -1 -1 0 -3505 496 497 2 -29757 -1 -1 2 -29757 -1 -1 2 -25515 499 502 0 -12218 500 501 2 -21273 -1 -1 2 -21273 -1 -1 0 -12218 503 504 2 -29757 -1 -1 2 -29757 -1 -1 2 -17030 506 521 0 -25287 507 514 2 -8546 508 511 0 -20930 509 510 2 -4303 -1 -1 2 -4303 -1 -1 0 -20930 512 513 2 -12788 -1 -1 2 -12788 -1 -1 2 -8546 515 518 0 -29643 516 517 2 -4303 -1 -1 2 -4303 -1 -1 0 -29643 519 520 2 -12788 -1 -1 2 -12788 -1 -1 0 -25287 522 529 2 -25515 523 526 0 -20930 524 525 2 -21273 -1 -1 2 -21273 -1 -1 0 -20930 527 528 2 -29757 -1 -1 2 -29757 -1 -1 2 -25515 530 533 0 -29643 531 532 2 -21273 -1 -1 2 -21273 -1 -1 0 -29643 534 535 2 -29757 -1 -1 2 -29757 -1 -1
  boundMins 440.247 -23.396 61.577
- boundMaxs 850.763 38.297 365.954
+ boundMaxs 850.763 39.616 610.445
  blockSize 100 1500 100
  SkyPreset "{621C7F2EC2763297}Terrains/Common/Sky/Atmosphere/Atmosphere.emat"
  PlanetPreset {
@@ -22,7 +22,7 @@ GenericTerrainEntity haapasaari3 {
 }
 TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
  coords 1024 0 1024
- "Initial Day Time" 17.917
+ "Initial Day Time" 12.731
  "Internal variant transition" 0
  "Internal subvariant 0" 0
  "Internal subvariant 1" 0
@@ -411,15 +411,86 @@ $grp GenericEntity : "{02D9A60C3CCC34E5}Prefabs/Vegetation/Plant/coppice_grass_d
   coords 687.467 0.822 188.13
   angles 0 168.861 0
  }
+ {
+  coords 697.548 0.341 377.594
+ }
 }
 SCR_IndestructibleEnvironmentalEntity : "{07FBB9A2F51332E4}Prefabs/Rocks/Granite/Granite_BeachStone_01.et" {
  coords 641.791 -0.739 236.983
+}
+$grp GenericEntity : "{09D3EC47CF7BE31A}Prefabs/Vegetation/Plant/c_coppice_grass_aut.et" {
+ {
+  coords 700.656 0.345 377.116
+ }
+ {
+  coords 696.945 0.41 375.806
+ }
+ {
+  coords 699.686 0.217 369.804
+ }
+ {
+  coords 700.063 0.187 368.476
+ }
+}
+$grp Tree : "{09E03E65489EEC39}Prefabs/Vegetation/Bush/b_phragmites_australis_1.et" {
+ {
+  coords 677.434 -0 351.547
+ }
+ {
+  coords 668.483 0 354.63
+  angles 0 -91.554 0
+ }
 }
 Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
  coords 686.616 0 188.152
 }
 SCR_IndestructibleEnvironmentalEntity : "{0E9A4FF62219106F}Prefabs/Rocks/Granite/GraniteCliff_03_Fucus.et" {
  coords 552.932 -21.47 230.353
+}
+SCR_IndestructibleEnvironmentalEntity : "{1200EAC7C79003AF}Prefabs/Rocks/Granite/GraniteRock_03_V2.et" {
+ coords 701.637 -2.585 367.425
+ angles 0 -104.585 0
+ scale 0.49
+}
+$grp Tree : "{124518D13290A687}Prefabs/Vegetation/Bush/b_salix_cinerea_0.et" {
+ {
+  coords 675.049 -0 347.747
+ }
+ {
+  coords 678.042 0 347.725
+  angles 0 34.112 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{18B2439FBF6CADFD}Prefabs/Structures/Houses/Farm/FarmHouse_E_1L01/FarmHouse_E_1L01_Wood.et" {
+ coords 682.287 0.707 471.53
+ angles 0 -127.824 0
+}
+$grp GenericEntity : "{1C2BB7CE623514E7}Prefabs/Vegetation/Plant/coppice_grass_dense_01_aut.et" {
+ {
+  coords 699.053 0.437 376.028
+ }
+ {
+  coords 698.817 0.395 377.876
+ }
+ {
+  coords 699.889 0.444 374.716
+ }
+}
+SCR_DestructibleBuildingEntity : "{1EB7F56F2D294872}Prefabs/Structures/Infrastructure/Naval/Sheds/BoatShed_01/BoatShed_01_weathered.et" {
+ coords 635.303 1.06 371.631
+ angles 0 -180 0
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{1FFB6B5828D2B35F}Prefabs/Rocks/Granite/GraniteRock_03.et" {
+ {
+  coords 701 -2.634 381.01
+  angles 0 -164.913 0
+  scale 0.425
+ }
+ {
+  coords 679.631 -1.543 336.918
+  angles 0 -35.788 0
+  scale 0.287
+ }
 }
 $grp Tree : "{23C0BE9D80929DBD}Prefabs/Vegetation/Bush/b_salix_cinerea_1w.et" {
  {
@@ -429,15 +500,48 @@ $grp Tree : "{23C0BE9D80929DBD}Prefabs/Vegetation/Bush/b_salix_cinerea_1w.et" {
   coords 672.843 -0.013 197.23
   angles 0 80.05 0
  }
+ {
+  coords 654.398 -0 382.863
+ }
 }
-SCR_IndestructibleEnvironmentalEntity : "{2973EA66BE9A406D}Prefabs/Rocks/Granite/GraniteSurfaceStone_07.et" {
- coords 735.721 -1.09 209.867
+$grp GenericEntity : "{295D4DD0CF08C800}Prefabs/Vegetation/Plant/c_coppice_grass_dense_01_aut.et" {
+ {
+  coords 698.224 0.342 373.462
+ }
+ {
+  coords 697.844 0.382 375.132
+  angles 0 -50.499 0
+ }
+ {
+  coords 697.04 0.416 376.68
+  angles 0 83.181 0
+ }
 }
-SCR_IndestructibleEnvironmentalEntity : "{29EA7C7ADF66D388}Prefabs/Rocks/Granite/Granite_BeachCluster_02.et" {
- coords 646.13 0 244.824
+$grp SCR_IndestructibleEnvironmentalEntity : "{2973EA66BE9A406D}Prefabs/Rocks/Granite/GraniteSurfaceStone_07.et" {
+ {
+  coords 735.721 -1.09 209.867
+ }
+ {
+  coords 680.579 -0.842 353.944
+  scale 0.675
+ }
 }
-SCR_DestructibleBuildingEntity : "{2B165B5BF9FE270D}Prefabs/Structures/Infrastructure/Naval/Sheds/BoatShed_01/BoatShed_01.et" {
- coords 626.421 0 222.733
+$grp SCR_IndestructibleEnvironmentalEntity : "{29EA7C7ADF66D388}Prefabs/Rocks/Granite/Granite_BeachCluster_02.et" {
+ {
+  coords 646.13 0 244.824
+ }
+ {
+  coords 698.428 -0.172 376.43
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{2B165B5BF9FE270D}Prefabs/Structures/Infrastructure/Naval/Sheds/BoatShed_01/BoatShed_01.et" {
+ {
+  coords 626.421 0 222.733
+ }
+ {
+  coords 673.985 0.514 379.271
+  angles 0 90.689 0
+ }
 }
 $grp Tree : "{3146C9F63A4FB19A}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_Calamagrostis_epigejos_1_aut.et" {
  {
@@ -474,6 +578,22 @@ $grp Tree : "{3146C9F63A4FB19A}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
   coords 718.583 0 216.659
   angles 0 -80.519 0
  }
+ {
+  coords 699.716 0 376.721
+  angles 0 21.537 0
+  scale 0.78
+ }
+ {
+  coords 697.664 0 376.641
+  angles 0 -26.878 0
+  scale 0.61
+ }
+}
+Tree : "{3672E1C327D422D0}Prefabs/Vegetation/Bush/b_salix_cinerea_1w_aut.et" {
+ coords 658.658 0 375.356
+}
+SCR_IndestructibleEnvironmentalEntity : "{38EABAE970A94744}Prefabs/Rocks/Granite/GraniteStone_03_V2.et" {
+ coords 696.512 -0.345 380.626
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{3CB20A890FB1B6F5}Prefabs/Rocks/Granite/GraniteSurfaceStone_02.et" {
  {
@@ -503,6 +623,9 @@ $grp Tree : "{3F439AC2C1E7E58D}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana
  }
  {
   coords 574.912 0 232.436
+ }
+ {
+  coords 671.945 -0 365.225
  }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
@@ -544,6 +667,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Gr
   angles -86.563 36.338 -125.766
  }
 }
+SCR_IndestructibleEnvironmentalEntity : "{450AAF1BC197F8C9}Prefabs/Rocks/Granite/Granite_Cluster_01.et" {
+ coords 700.367 -0.313 374.054
+ angles 0.569 0 0
+}
 SCR_IndestructibleEnvironmentalEntity : "{4527DE86025ECF43}Prefabs/Rocks/Granite/GraniteSurfaceStone_04.et" {
  coords 736.448 -2.384 201.092
 }
@@ -559,8 +686,13 @@ GenericEntity : "{4923E218F59644B9}Prefabs/Props/Wrecks/BoatWreck_01/BoatWreck_0
 SCR_IndestructibleEnvironmentalEntity : "{50E63E69B37539DB}Prefabs/Rocks/Granite/GraniteSurfaceStone_01.et" {
  coords 717.649 -1.784 175.04
 }
-Tree : "{510EA49BF4860B05}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1_aut.et" {
- coords 652.915 0 185.962
+$grp Tree : "{510EA49BF4860B05}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1_aut.et" {
+ {
+  coords 652.915 0 185.962
+ }
+ {
+  coords 673.415 -0.134 361.851
+ }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{533CDABD77C4C43E}Prefabs/Rocks/Granite/GraniteCliff_02.et" {
  {
@@ -598,6 +730,10 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{533CDABD77C4C43E}Prefabs/Rocks/Gr
   coords 635.917 -0.591 212.417
   angles -89.411 0 0
  }
+ {
+  coords 660.382 -1.26 361.155
+  angles -87.835 0 44.376
+ }
 }
 $grp GenericEntity : "{623260806D4B0B6C}Prefabs/Vegetation/Plant/c_coppice_grass.et" {
  {
@@ -619,6 +755,24 @@ $grp GenericEntity : "{6A0F8B05C98BC76D}Prefabs/Vegetation/Plant/c_coppice_grass
   coords 687.561 0.702 187.426
  }
 }
+SCR_DestructibleBuildingEntity : "{6A5434912CBD0296}Prefabs/Structures/Houses/Village/House_Village_E_1I03/House_Village_E_1I03_yellow.et" {
+ coords 654.739 1.042 497.343
+ angles 0 69.952 0
+}
+$grp SCR_DestructibleBuildingEntity : "{6FA58B435F69B179}Prefabs/Structures/Houses/Shed/Shed_02/Shed_02_big_V1.et" {
+ {
+  coords 641.779 -0.185 401.885
+  angles 0 -175.216 0
+ }
+ {
+  coords 667.129 -0.104 460.214
+  angles 0 42.98 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{748640C90A664E29}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I01/House_Wooden_E_1I01_panels.et" {
+ coords 660.955 -0.006 385.039
+ angles 0 52.558 0
+}
 $grp Tree : "{75CEDC0C3B9CCE14}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_0.et" {
  {
   coords 692.817 0 219.382
@@ -635,6 +789,12 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{7813FBBE77324674}Prefabs/Rocks/Gr
   coords 651.676 -1.789 204.039
  }
 }
+Tree : "{7BAA3CF64495B691}Prefabs/Vegetation/Bush/b_rubus_idaeus_0s.et" {
+ coords 656.937 0.053 373.212
+}
+Tree : "{7CA659C5C20AF9EF}Prefabs/Vegetation/Bush/b_sambucus_nigra_1_aut.et" {
+ coords 678.362 0 342.895
+}
 Tree : "{822382583FCFFCB3}Prefabs/Vegetation/Plant/Chamerion_angustifolium/p_chamerion_angustifolium_1.et" {
  coords 704.592 0 183.679
 }
@@ -646,9 +806,20 @@ $grp Tree : "{83918B1D65ED8202}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
   coords 714.571 0 215.933
   angles 0 30.061 0
  }
+ {
+  coords 699.534 0.027 374.505
+  scale 0.55
+ }
 }
 Tree : "{865A1A42EE051619}Prefabs/Vegetation/Plant/Artemisia_Vulgaris/p_artemisia_vulgaris_1s.et" {
  coords 692.487 -0.206 188.92
+}
+SCR_IndestructibleEnvironmentalEntity : "{8A403C31EFCF153F}Prefabs/Rocks/Granite/GraniteStone_03.et" {
+ coords 698.721 -0.272 380.269
+}
+SCR_DestructibleBuildingEntity : "{8ACC8A8EB87A28FF}Prefabs/Structures/Houses/Village/House_Village_E_1I03/House_Village_E_1I03.et" {
+ coords 650.686 0.716 434.358
+ angles 0 74.78 0
 }
 $grp Tree : "{905290F53779597F}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1.et" {
  {
@@ -663,6 +834,10 @@ $grp Tree : "{905290F53779597F}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana
  {
   coords 658.478 0 215.859
  }
+}
+GenericEntity : "{9607AE00BD60A295}Prefabs/Vegetation/Plant/coppice_grass_01_aut.et" {
+ coords 699.212 0.183 371.566
+ angles 0 61.09 0
 }
 $grp Tree : "{9D5A19E49F68D237}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_Calamagrostis_epigejos_2.et" {
  {
@@ -705,8 +880,26 @@ $grp Tree : "{9D5A19E49F68D237}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
   angles 0 93.013 0
  }
 }
+$grp SCR_IndestructibleEnvironmentalEntity : "{A0BB927F0EBB5828}Prefabs/Rocks/Granite/GraniteSurfaceStone_05.et" {
+ {
+  coords 681.59 -0.882 342.06
+  scale 0.651
+ }
+ {
+  coords 681.59 -0.519 346.862
+  angles 0 129.689 0
+  scale 0.651
+ }
+}
+SCR_DestructibleBuildingEntity : "{A43A9D7D878F6EC0}Prefabs/Structures/Houses/Prefabricated/House_Prefab_2I01/House_Prefab_2I01_v1.et" {
+ coords 627.18 -2.453 401.044
+ angles 0 -180 0
+}
 SCR_IndestructibleEnvironmentalEntity : "{A5A0B5EF1773A200}Prefabs/Rocks/Granite/Granite_Cluster_Large_01.et" {
  coords 695.226 -0.298 215.469
+}
+Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" {
+ coords 671.066 -0 353.517
 }
 $grp Tree : "{A8188E486B3DACC6}Prefabs/Vegetation/Plant/Chamerion_angustifolium/p_chamerion_angustifolium_0.et" {
  {
@@ -724,6 +917,10 @@ $grp Tree : "{A8188E486B3DACC6}Prefabs/Vegetation/Plant/Chamerion_angustifolium/
   coords 707.634 0 184.317
   angles 0 98.649 0
  }
+}
+Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
+ coords 676.525 -0 352.956
+ angles 0 0 0
 }
 Tree : "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et" {
  coords 663.385 0 208.825
@@ -794,8 +991,28 @@ $grp Tree : "{B9D966CCC7F6DF22}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana
   angles 0 -98.482 0
  }
 }
-Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1.et" {
- coords 676.078 0 193.3
+$grp Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1.et" {
+ {
+  coords 676.078 0 193.3
+ }
+ {
+  coords 680.671 0 351.231
+ }
+ {
+  coords 674.832 0 354.553
+  angles 0 60.18 0
+ }
+ {
+  coords 671.637 -1.722 348.255
+  angles 0 -106.893 0
+ }
+ {
+  coords 652.281 0 378.221
+ }
+}
+SCR_IndestructibleEnvironmentalEntity : "{BA7C01144220E4C3}Prefabs/Rocks/Granite/Granite_BeachCluster_02_waterline.et" {
+ coords 700.716 -0.46 375.312
+ angles 0 0 8.707
 }
 Tree : "{BAB8054438C72A04}Prefabs/Vegetation/Bush/b_sambucus_nigra_2.et" {
  coords 694.442 -0.099 185.334
@@ -804,8 +1021,13 @@ SCR_DestructibleBuildingEntity : "{C212C8AC6001F002}Prefabs/Structures/Houses/Wo
  coords 616.66 0 221.454
  angles 0 -89.785 0
 }
-Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" {
- coords 665.549 -0.066 204.196
+$grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" {
+ {
+  coords 665.549 -0.066 204.196
+ }
+ {
+  coords 673.529 -0 352.607
+ }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{CCEFA69FB27FD706}Prefabs/Rocks/Granite/GraniteSurfaceStone_06.et" {
  {
@@ -818,6 +1040,25 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{CCEFA69FB27FD706}Prefabs/Rocks/Gr
 GenericEntity : "{D16F58EC1C0027D7}Prefabs/Vegetation/Cuttings/Salix_cinerea_medium_01.et" {
  coords 688.413 0.712 190.019
 }
+$grp SCR_IndestructibleEnvironmentalEntity : "{D5CC7A5A32C640A3}Prefabs/Rocks/Granite/GraniteRock_02_V2.et" {
+ {
+  coords 695.511 -2.074 377.816
+  scale 0.36
+ }
+ {
+  coords 695.622 -2.394 376.639
+  angles 0 -80.737 0
+  scale 0.36
+ }
+ {
+  coords 701.961 -2.31 373.151
+  scale 0.342
+ }
+}
+SCR_DestructibleBuildingEntity : "{D61A7F2891D457C6}Prefabs/Structures/Houses/Shed/Shed_02/Shed_02_square.et" {
+ coords 664.024 0.095 457.986
+ angles 0 -138.184 0
+}
 $grp GenericEntity : "{D68730CF165DA497}Prefabs/Vegetation/Plant/Chamerion_angustifolium/c_chamerion_angustifolium_01.et" {
  {
   coords 694.819 0.745 188.481
@@ -829,8 +1070,13 @@ $grp GenericEntity : "{D68730CF165DA497}Prefabs/Vegetation/Plant/Chamerion_angus
   coords 707.481 0.11 182.595
  }
 }
-Tree : "{D9DF1D13919F19A0}Prefabs/Vegetation/Bush/b_rosa_canina_0s.et" {
- coords 665.887 0 201.44
+$grp Tree : "{D9DF1D13919F19A0}Prefabs/Vegetation/Bush/b_rosa_canina_0s.et" {
+ {
+  coords 665.887 0 201.44
+ }
+ {
+  coords 680.089 0 343.356
+ }
 }
 Tree : "{DDFB456F6ACD83EB}Prefabs/Vegetation/Plant/Rubus_Gracilis/p_rubus_gracilis_1.et" {
  coords 709.594 0 183.111
@@ -850,6 +1096,14 @@ StaticModelEntity : "{E65C10367DE0C08B}Prefabs/Vegetation/Plant/c_vaccinium_myrt
 }
 GenericEntity : "{E8181E2E360A8AF4}Prefabs/Vegetation/Cuttings/Juniperus_communis_medium_01.et" {
  coords 690.262 0.735 186.939
+}
+SCR_DestructibleBuildingEntity : "{EC144DD40FCC3F05}Prefabs/Structures/Houses/Shed/Shed_06/Shed_06_blue.et" {
+ coords 648.885 -0.213 388.39
+ angles 0 60.662 0
+}
+SCR_DestructibleBuildingEntity : "{F08D8E78433D713A}Prefabs/Structures/Houses/Shed/Shed_01/Shed_01.et" {
+ coords 671.352 0.557 373.137
+ angles 0 81.88 0
 }
 $grp Tree : "{F10E2D0423AC5D19}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_Calamagrostis_epigejos_1.et" {
  {
@@ -871,4 +1125,31 @@ $grp Tree : "{F10E2D0423AC5D19}Prefabs/Vegetation/Bush/Calamagrostis_epigejos/B_
 }
 Tree : "{F4558B5B50D63585}Prefabs/Vegetation/Plant/Arctium_Lappa/p_arctium_lappa_1s.et" {
  coords 691.356 -0.33 192.689
+}
+SCR_IndestructibleEnvironmentalEntity : "{F5837A3933EFF7CF}Prefabs/Rocks/Granite/GraniteStone_01_V2.et" {
+ coords 697.601 -0.379 379.719
+}
+Tree : "{F89B942712FD22D6}Prefabs/Vegetation/Tree/t_carpinus_betulus/t_carpinus_betulus_2s.et" {
+ coords 649.74 0 380.941
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{FA6727A124372434}Prefabs/Rocks/Granite/GraniteRock_02.et" {
+ {
+  coords 696.823 -3.835 373.857
+  angles 0 34.133 0
+  scale 0.55
+ }
+ {
+  coords 699.826 -8.153 370.618
+ }
+}
+SCR_IndestructibleEnvironmentalEntity : "{FA8C2031F43C6684}Prefabs/Rocks/Granite/Granite_BeachCluster_01_waterline.et" {
+ coords 699.441 -0.509 376.865
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{FF262A7485FF0448}Prefabs/Rocks/Granite/GraniteStone_02_V2.et" {
+ {
+  coords 695.615 -0.234 378.944
+ }
+ {
+  coords 680.039 -0.459 337.349
+ }
 }
